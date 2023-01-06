@@ -185,6 +185,7 @@ skill img {
     display: flex;
     gap: 100px;
     background-color: #FFF8F3;
+    margin: 0px 110px;
     padding: 100px 150px;
     margin-bottom: 100px;
 }
